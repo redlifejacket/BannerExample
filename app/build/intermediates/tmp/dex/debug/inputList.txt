@@ -1,0 +1,6 @@
+/Users/shyamg/Downloads/BannerExample/app/build/intermediates/classes/debug
+/Users/shyamg/Downloads/BannerExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-192392c040dca079f9e6d35b735ade77d12b9355.jar
+/Users/shyamg/Downloads/BannerExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-deaa8737e42eb3dc8f36d1d4e8e5f748051bbcd4.jar
+/Users/shyamg/Downloads/BannerExample/app/build/intermediates/pre-dexed/debug/classes-772ecbb1e1fe6b6870952f6e98594f4f16fed5db.jar
+/Users/shyamg/Downloads/BannerExample/app/build/intermediates/pre-dexed/debug/classes-379a14ffd7e61a17ac6307c97efa6147701831ae.jar
+/Users/shyamg/Downloads/BannerExample/app/build/intermediates/pre-dexed/debug/classes-d600a6cfc3b49f2bd77fdd25b1d965110a798566.jar
